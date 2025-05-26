@@ -1,19 +1,10 @@
-#First request - we want to ask how many people are working
-
+# First request - we want to ask how many people are working
 # it will either be 2 or 3
-
 # ask for the inputs of the names
-
 # once we get the inputs of names we want to assign a random number from 1-3 or 1-2 based on if there is 2 or 3 people inputed
-
 # once the number is assigned no other person can get that number until all people have been assigned a number
 
 import random
-
-#test if indetiation is working on VIM
-#i = [1, 2, 3, 4, 5]
-#for x in i:
-	#print(x)
 
 print("How many people are working?");
 working = int(input())
