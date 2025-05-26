@@ -25,8 +25,6 @@ if working == 2:
 	x2 = input("input name 2: ")
 	print(x1, " is assigned to op: ", z[0])
 	print(x2, " is assigned to op: ", z[1])
-#print(x1," Number: ", random.randint(1, 2))
-#print(x2," Number: ", random.randint(1, 2))
 
 else:
 	#random sample to get unique instances with range of 3
@@ -37,8 +35,5 @@ else:
 	print(y1, " is assigned to op: ", z2[0])
 	print(y2, " is assigned to op: ", z2[1])
 	print(y3, " is assigned to op: ", z2[2])
-#print(y1," Number: ", random.randint(1,3))
-#print(y2," Number: ", random.randint(1,3))
-#print(y3," Number: ", random.randint(1,3))
 
 print("Enjoy shift")
